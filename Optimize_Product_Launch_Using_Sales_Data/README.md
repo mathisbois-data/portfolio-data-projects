@@ -4,7 +4,7 @@
 Analyze existing sales data to recommend an optimized product launch strategy: identify the most profitable product categories, the best performing regions, and the ideal price range.
 
 ## Difficulty Level
-Easy
+Basic
 
 ## Project Content
 - Data Cleaning: preprocessing and preparing the dataset for analysis
