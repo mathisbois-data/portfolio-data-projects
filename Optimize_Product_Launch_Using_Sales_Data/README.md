@@ -22,7 +22,7 @@ Basic
 Dataset: Sample Superstore Sales
 Source: Kaggle (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
-## Expected Deliverables
+## Highlights
 - Identification of top-performing product categories
 - Discovery of the best regions for a product launch
 - Definition of an optimal pricing range
